@@ -1,5 +1,3 @@
 # Business Card
 
-## Uses
-
-    1. Font Awesome icon
+## Live link 👉 https://shahriarkawsik.github.io/business_card_design/
